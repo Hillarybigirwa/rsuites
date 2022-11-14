@@ -1,0 +1,13 @@
+<head>
+<!--Bootstrap CDN links-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<!--font awesome coming on board-->
+<!--Swiper class CSS -->
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+<!--Bootstrap coming on board-->
+<!--Custom CSS links-->
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive/style.css">
+<title>Rwampara Suites Mbarara-For Hotel and Bar and accomodation</title>
+</head>
